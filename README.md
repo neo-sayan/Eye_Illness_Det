@@ -13,8 +13,10 @@ AUTOMATED ASSISTIVE SCREENING OF RETINAL PATHOLOGY THROUGH ADVANCED NEURAL NETWO
 
 ### Validation Batch Images:
 
-1. ![Labeled_Validation Image 1](/Images/val_batch0_labels.jpg)
-2. ![Predicted_Validation Image 1](/Images/val_batch0_pred.jpg)
+1. ![Labeled Validation Image 1](/Images/val_batch0_labels.jpg)
+  *Figure: Labeled_Validation Image 1.*
+2. ![Predicted Validation Image 1](/Images/val_batch0_pred.jpg)
+  *Figure: Predicted Validation Image 1.*
 3. ![Labeled_Validation Image 2](/Images/val_batch1_labels.jpg)
 4. ![Predicted_Validation Image 2](/Images/val_batch1_pred.jpg)
 5. ![Labeled_Validation Image 3](/Images/val_batch3_labels.jpg)
