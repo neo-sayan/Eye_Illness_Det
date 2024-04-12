@@ -13,21 +13,21 @@ AUTOMATED ASSISTIVE SCREENING OF RETINAL PATHOLOGY THROUGH ADVANCED NEURAL NETWO
 
 ### Validation Batch Images:
 
-1. <img src="/Images/val_batch0_labels.jpg" alt="Labeled Validation Image 1" width="300">
-   *Figure 1: Ground Truth Labels for Validation Image 1.*
+1. <img src="/Images/val_batch0_labels.jpg" alt="Labeled Validation Image 1" width="600">
+  *Figure 1: Ground Truth Labels for Validation Image 1.*
 
-2. <img src="/Images/val_batch0_pred.jpg" alt="Predicted Validation Image 1" width="300">
-   *Figure 2: Predicted Labels for Validation Image 1.*
+2. <img src="/Images/val_batch0_pred.jpg" alt="Predicted Validation Image 1" width="600">
+  *Figure 2: Predicted Labels for Validation Image 1.*
 
-3. <img src="/Images/val_batch1_labels.jpg" alt="Labeled Validation Image 2" width="300">
-   *Figure 3: Ground Truth Labels for Validation Image 2.*
+3. <img src="/Images/val_batch1_labels.jpg" alt="Labeled Validation Image 2" width="600">
+  *Figure 3: Ground Truth Labels for Validation Image 2.*
 
-4. <img src="/Images/val_batch1_pred.jpg" alt="Predicted Validation Image 2" width="300">
-   *Figure 4: Predicted Labels for Validation Image 2.*
+4. <img src="/Images/val_batch1_pred.jpg" alt="Predicted Validation Image 2" width="600">
+  *Figure 4: Predicted Labels for Validation Image 2.*
 
-5. <img src="/Images/val_batch3_labels.jpg" alt="Labeled Validation Image 3" width="300">
-   *Figure 5: Ground Truth Labels for Validation Image 3.*
+5. <img src="/Images/val_batch2_labels.jpg" alt="Labeled Validation Image 3" width="600">
+  *Figure 5: Ground Truth Labels for Validation Image 3.*
 
-6. <img src="/Images/val_batch2_pred.jpg" alt="Predicted Validation Image 3" width="300">
-   *Figure 6: Predicted Labels for Validation Image 3.*
+6. <img src="/Images/val_batch2_pred.jpg" alt="Predicted Validation Image 3" width="600">
+  *Figure 6: Predicted Labels for Validation Image 3.*
 
