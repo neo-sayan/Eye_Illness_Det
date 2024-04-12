@@ -1,12 +1,13 @@
 # Eye_Illness_Det
 AUTOMATED ASSISTIVE SCREENING OF RETINAL PATHOLOGY THROUGH ADVANCED NEURAL NETWORK [Classes Detected: Diabetic Retinopathy, Glaucoma, Cataract &amp; Normal.] 
+Ask For The Weight Files at sayanneogy2001@gmail.com .
 
 ## Contents
 
 - [Evaluation Metrics](#evaluation-metrics)
-  - [Confusion Matrix](#confusion-matrix)
-  - [Result and Graphs](#result-and-graphs)
-  - [Validation Batch Images](#validation-batch-images)
+- [Confusion Matrix](#confusion-matrix)
+- [Result and Graphs](#result-and-graphs)
+- [Validation Batch Images](#validation-batch-images)
 
 
 ## Evaluation Metrics
@@ -60,5 +61,6 @@ AUTOMATED ASSISTIVE SCREENING OF RETINAL PATHOLOGY THROUGH ADVANCED NEURAL NETWO
 6. <img src="/Images/val_batch2_pred.jpg" alt="Predicted Validation Image 3" width="600">
   *Figure 3.6: Predicted Labels for Validation Image 3.*
 
-Ask For The Weight Files at sayanneogy2001@gmail.com .
+
+
 Thank you for using the project!
